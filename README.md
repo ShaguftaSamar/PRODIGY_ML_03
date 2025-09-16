@@ -75,9 +75,3 @@ This project implements a **Support Vector Machine (SVM)** to classify images of
 * Matplotlib
 * scikit-image
 * scikit-learn
-
----
-
-If you want, I can also **draft a LinkedIn-ready version** summarizing this README in **short paragraphs with hashtags** for your post along with the video.
-
-Do you want me to do that?
